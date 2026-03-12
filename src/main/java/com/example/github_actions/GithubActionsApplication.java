@@ -8,6 +8,7 @@ public class GithubActionsApplication {
 
 	public static void main(String[] args) {
 
+		
 		SpringApplication.run(GithubActionsApplication.class, args);
 		
 		
