@@ -16,7 +16,7 @@
 # under the License.
 # ----------------------------------------------------------------------------
 # ----------------------------------------------------------------------------
-# Apache Maven Wrapper startup batch script, version 3.3.4
+# Apache Maven Wrapper startup batch script, version 3.3.4 
 # 
 # Optional ENV vars  
 # ----------------- 
