@@ -29,7 +29,7 @@ set -euf
 [ "${MVNW_VERBOSE-}" != debug ] || set -x
 
 
-# OS specific support.
+# OS specific support. 
 native_path() { printf %s\\n "$1"; }
 case "$(uname)" in
 CYGWIN* | MINGW*)
