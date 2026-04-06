@@ -1,4 +1,4 @@
-name: Build and Push Image (Main)
+name: StarcSec Test - GitHub Action- CICD
 
 on:
   push:
