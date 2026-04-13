@@ -1,4 +1,4 @@
-name: StarcSec Test - GitHub Action- CICD
+name: StarcSec Test - GitHub Action
 
 on:
   push:
