@@ -1,4 +1,4 @@
-name: StarcSec Test - GitHub Action
+name: Starcsec Repo Deployment
 
 on:
   push:
