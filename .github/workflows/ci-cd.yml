@@ -1,4 +1,4 @@
-name: Starcsec Repo Deployment
+name: StarcSec UI Build and Push
 
 on:
   push:
