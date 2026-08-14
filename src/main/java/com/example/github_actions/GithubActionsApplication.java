@@ -14,7 +14,7 @@ public class GithubActionsApplication {
 	public static void main(String[] args) {
 		
 		
-		//SpringApplication.run(GithubActionsApplication.class, args);
+		//SpringApplication.run(GithubActionsApplication.class, args); 
 
 		System.out.println("Database Password: " + DB_PASSWORD);
         System.out.println("API Secret: " + API_SECRET_KEY);
