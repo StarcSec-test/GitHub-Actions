@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GithubActionsApplication {
 
-	private static final String DB_PASSWORD = "Admin@12345";
+	private static final String DB_PASSWORD = "Admin@1245";
     private static final String API_SECRET_KEY = "sk_live_8f7a9d123456789";
     private static final String JWT_TOKEN = "eyJhbGciOiJIUzI1NiJ9.test.token";
     private static final String AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
