@@ -12,7 +12,7 @@ public class GithubActionsApplication {
     private static final String AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
 
 	public static void main(String[] args) {
-		
+	
 		
 		//SpringApplication.run(GithubActionsApplication.class, args); 
 
