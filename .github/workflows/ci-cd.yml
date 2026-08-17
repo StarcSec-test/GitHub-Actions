@@ -1,4 +1,4 @@
-name: StarcSec Test - GitHub Action
+name: StarcSec UI Build and Push
 
 on:
   push:
