@@ -3,7 +3,7 @@ name: StarcSec Test - GitHub Action
 on:
   push:
     branches:
-      - main
+      - dev
 
 jobs:
   build:
