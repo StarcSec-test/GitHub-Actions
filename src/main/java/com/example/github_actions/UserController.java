@@ -4,7 +4,7 @@ public class UserController {
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
-    @GetMapping("/users")
+    @GetMapping("/user")
     public List<Map<String, Object>> getUser(
             @RequestParam String username) {
 
