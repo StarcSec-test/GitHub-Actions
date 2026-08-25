@@ -12,7 +12,6 @@ public class UserController {
                 "SELECT * FROM users WHERE username = '"
                         + username
                         + "'";
-
         return jdbcTemplate.queryForList(query);
     }
 }
