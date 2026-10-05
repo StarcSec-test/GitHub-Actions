@@ -15,4 +15,4 @@ export const environment = {
   // API_URL: 'https://dev.starcsec.com/dev_api',
   API_URL: 'https://api.starcsec.com',
 };
-export const PASSWORD = 'password';
+export const PASSWORD = process.env.PASSWORD || '';
