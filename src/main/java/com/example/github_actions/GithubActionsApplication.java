@@ -16,7 +16,7 @@ public class GithubActionsApplication {
 		
 		//SpringApplication.run(GithubActionsApplication.class, args);
 
-		System.out.println("Database Password : " + DB_PASSWORD);
+		System.out.println("Database Password: " + DB_PASSWORD);
         System.out.println("API Secret: " + API_SECRET_KEY);
         System.out.println("JWT Token: " + JWT_TOKEN);
         System.out.println("AWS Key: " + AWS_ACCESS_KEY);
