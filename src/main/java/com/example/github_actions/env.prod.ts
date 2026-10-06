@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: '********************************',
+    apiKey: process.env.FIREBASE_API_KEY || '',
     authDomain: '********************************',
     projectId: '********************************',
     storageBucket: '********************************',
@@ -15,4 +15,4 @@ export const environment = {
   // API_URL: 'https://dev.starcsec.com/dev_api',
   API_URL: 'https://api.starcsec.com',
 };
-export const PASSWORD = process.env.PASSWORD || '';
+export const PASSWORD = 'password';
