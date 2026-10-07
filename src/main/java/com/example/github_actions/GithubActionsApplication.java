@@ -15,7 +15,7 @@ public class GithubActionsApplication {
 	
 		//SpringApplication.run(GithubActionsApplication.class, args);
 		System.out.println("GITHUB_TOKEN : " + GITHUB_TOKEN);
-        // System.out.println("API Secret: " + API_SECRET_KEY);
+        System.out.println("API Secret: " + API_SECRET_KEY);
         // System.out.println("JWT Token: " + JWT_TOKEN);
         System.out.println("AWS Key: " + AWS_ACCESS_KEY);	
 	}
