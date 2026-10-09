@@ -3,7 +3,7 @@ package com.example.github_actions;
 public class Config {
     String key;
     String secret;
-    String password; 
+    String password;
     String apiKey;
     String token;
     String accessToken;
