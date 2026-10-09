@@ -5,7 +5,7 @@ public class Config {
     String secret;
     String password;
     String apiKey;
-    String token; 
+    String token;  
     String accessToken;
  
     public String getKey() { 
