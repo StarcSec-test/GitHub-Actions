@@ -8,7 +8,7 @@ public class Config {
     String token;
     String accessToken;
    
-    public String getKey() { 
+    public String getKey() {  
         return key;  
     }
  
