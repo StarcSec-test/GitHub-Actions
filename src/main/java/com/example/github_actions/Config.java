@@ -13,7 +13,7 @@ public class Config {
     }
     public void setKey(String key) {
         this.key = key;
-    }
+    } 
     public String getSecret() {
         return secret;
     }
