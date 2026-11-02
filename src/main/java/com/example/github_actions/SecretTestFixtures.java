@@ -14,7 +14,7 @@ package com.example.github_actions;
  */
 public class SecretTestFixtures {
 
-    // =====================================================================
+    // ===================================================================== 
     // A. PROVIDER-FORMAT SECRETS (fake values with real formats)
     // =====================================================================
 
