@@ -24,7 +24,7 @@ public class SecretTestFixtures {
 
     // AWS config style (key and secret on nearby lines, gives the detector context)
     String awsConfig =
-            "aws_access_key_id = AKIAJ4Q7ZXN2MWT5R3LP\n" +
+            "aws_access_key_ids = AKIAJ4Q7ZXN2MWT5R3LP\n" +
                     "aws_secret_access_key = k3Fq9Zr2Lm7Xv0BtYp5Nc8Wd1Hs4Ga6Ju+Te/IoQz";
 
     // GitHub personal access token (ghp_ + 36 chars)
