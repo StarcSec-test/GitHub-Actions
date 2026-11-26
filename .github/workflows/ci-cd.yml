@@ -3,7 +3,7 @@ name: StarcSec UI Build and Push
 on:
   push:
     branches:
-      - test_branch
+      - main
 
 jobs:
   build:
